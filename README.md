@@ -85,6 +85,10 @@ Nginx 目录： `/etc/nginx`
 
 证书文件: `/data/v2ray.key 和 /data/v2ray.crt` 请注意证书权限设置
 
+修改path：
+/etc/nginx/conf/conf.d/v2ray.conf
+/etc/v2ray/config.json
+
 ### 捐赠
 
 目前支持通过 MugglePay 接受虚拟货币捐赠
